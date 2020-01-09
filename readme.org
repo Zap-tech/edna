@@ -1,0 +1,13 @@
+#+TITLE: Edna - EDN Analyzer. An EDN tokenizer for creating DSLs in clojure
+#+AUTHOR: Benjamin Zaporzan
+#+DATE: 2020-01-08
+#+EMAIL: benzaporzan@gmail.com
+#+LANGUAGE: en
+#+OPTIONS: H:2 num:t toc:t \n:nil ::t |:t ^:t f:t tex:t
+
+*Edna* is a library for breaking down an EDN string into a tree
+ sequence of tokens for further processing. Additionally, includes
+ tooling for creating DSLs within clojure.
+
+
+/This project is currently in alpha, expect things to change/
